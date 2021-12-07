@@ -57,7 +57,7 @@ a:hover {
 section {
     padding-top: 10vh;
     padding-bottom: 10vh;
-    line-height: 2em;
+    line-height: 2.2em;
     padding-left: 30px;
     font-family: var(--fonte3);
     font-size: 4vh;
@@ -105,6 +105,10 @@ section#img02 {
 footer {
     background-color:black;
     color: white;
-    padding: 10px;
     text-align: center;
+    padding: 10px;
+    
 }
+
+
+
